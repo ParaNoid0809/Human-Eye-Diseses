@@ -78,8 +78,7 @@ bash
 Copy
 Edit
 streamlit run app.py
-📜 License
-📝 Open-source under MIT License.
+
 
 💡 Contributions Welcome! Fork, improve, and submit PRs.
 
